@@ -24,7 +24,7 @@ disqusShortname = 'River Magee'   # use disqus comments
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = '/images/River_Magee_Headshot.jpg'                 # gravatar email or image url
+  avatar = 'assets/images/River_Magee_Headshot.jpg'                 # gravatar email or image url
   name = 'River Magee'
   bio = 'Junior, Integrative Informatics Major'
 
