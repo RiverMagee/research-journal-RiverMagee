@@ -3,13 +3,6 @@ languageCode = 'en-us'
 title = 'Research Journal - Junior Seminar 580'
 theme = "paper"
 
-[build]
-  command = "hugo"
-  publish = "public"
-
-[build.environment]
-  HUGO_VERSION = "0.110.0"
-
 disqusShortname = 'River Magee'   # use disqus comments
 
 [build]
