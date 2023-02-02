@@ -8,7 +8,7 @@ theme = "paper"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "hugo v0.110.0+extended darwin/amd64 BuildDate=unknown"
+  HUGO_VERSION = "0.110.0"
 
 disqusShortname = 'River Magee'   # use disqus comments
 
