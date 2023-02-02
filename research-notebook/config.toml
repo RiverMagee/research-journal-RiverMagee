@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://super-travesseiro-18f7fc.netlify.app/'
 languageCode = 'en-us'
 title = 'Research Journal - Junior Seminar 580'
 theme = "paper"
@@ -11,6 +11,13 @@ theme = "paper"
   HUGO_VERSION = "hugo v0.110.0+extended darwin/amd64 BuildDate=unknown"
 
 disqusShortname = 'River Magee'   # use disqus comments
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.110.0"
 
 [params]
   # color style
