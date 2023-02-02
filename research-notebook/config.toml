@@ -5,12 +5,12 @@ theme = "paper"
 
 disqusShortname = 'River Magee'   # use disqus comments
 
-[build]
-  command = "hugo"
-  publish = "public"
+#[build]
+  #command = "hugo"
+  #publish = "public"
 
-[build.environment]
-  HUGO_VERSION = "0.110.0"
+#[build.environment]
+  #HUGO_VERSION = "0.110.0"
 
 [params]
   # color style
