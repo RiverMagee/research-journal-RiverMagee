@@ -1,4 +1,4 @@
-baseURL = 'https://super-travesseiro-18f7fc.netlify.app/'
+baseURL = 'baseURL = "http://example.org/"'
 languageCode = 'en-us'
 title = 'Research Journal - Junior Seminar 580'
 theme = "paper"
