@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>themes on Research Journal - Junior Seminar 580</title>
+    <link>https://example.org/categories/themes/</link>
+    <description>Recent content in themes on Research Journal - Junior Seminar 580</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autobiography</title>
+      <link>https://example.org/content/post/autobiography/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/content/post/autobiography/</guid>
+      <description>Hi, I&amp;rsquo;m River Magee! I was born and raised in Brooklyn, New York, and I am currently a junior at Allegheny College majoring Integrative Informatics with a minor in Theatre. In my free time, I enjoying spending time with my friends, playing video games, and watching movies. I am a hardcore Brooklyn Nets fan (as I should be), so I am always down for a conversation about basketball. My favorite foods include bacon and eggs on a roll, any form of ramen, and steak cooked rare.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics on Research Journal - Junior Seminar 580</title>
+    <link>https://example.org/tags/data-analytics/</link>
+    <description>Recent content in Data Analytics on Research Journal - Junior Seminar 580</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Interest Areas</title>
+      <link>https://example.org/content/post/research-interest-areas/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/content/post/research-interest-areas/</guid>
+      <description>I have a few areas of interest that I hope to explore in throughout this class. I will go on to describe them below, and list potential research ideas for each that I would find fulfilling.
+Artificial Intelligence Since playing my first video game, I have been interested in artificial intelligence. It has always astonished me the ways in which AI can mimic human mannerisms, and react to special circumstances in dynamic and organic ways.</description>
+    </item>
+    
+  </channel>
+</rss>
